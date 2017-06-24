@@ -1,7 +1,7 @@
-package com.hackerrank.bigsum;
+package arraysds;
 
 /**
- * Created by User on 05-Jun-17.
+ * Created by User on 07-Jun-17.
  */
 
 import java.io.*;
@@ -13,10 +13,14 @@ public class Solution {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner stdin = new Scanner(System.in);
         int n = stdin.nextInt();
-        long sum = 0;
-        for(int i=0; i<n; i++) {
-            sum = sum + stdin.nextInt();
+        int[] a = new int[n];
+        for(int i=0; i<n; i++){
+            a[i] = stdin.nextInt();
         }
-        System.out.println(sum);
+
+        for(int i=n-1; i>0; i--){
+            System.out.print(a[i]+" ");
+        }
+        System.out.print(a[0]);
     }
 }
