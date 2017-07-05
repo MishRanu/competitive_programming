@@ -1,13 +1,9 @@
 package biggerisgreater;
 
+import java.io.*;
 import java.util.ArrayList;
-import java.util.Scanner;
 
-/**
- * Created by User on 01-Jul-17.
- */
 public class Solution {
-    int test_cases;
     String[] inputs;
     ArrayList<String> permuteInputs = new ArrayList<>();
 
@@ -22,6 +18,24 @@ public class Solution {
         }
     }
 
+    private void swap(StringBuffer input, int index, int i){
+        char temp = input.charAt(index);
+        input.setCharAt(index, input.charAt(i));
+        input.setCharAt(i, temp);
+    }
+
+    private void permute(StringBuffer input, int index){
+        if(index>=input.length()){
+            this.permuteInputs.add(input.toString());
+        }
+        else {
+            for(int i=index; i<input.length(); i++){
+                swap(input, index, i);
+                permute(input, index+1);
+                swap(input, index, i);
+            }
+        }
+    }
     private int calcValue(String input){
         int val = 0;
         int pow_10=1;
@@ -50,7 +64,8 @@ public class Solution {
 
     public String processString(String input){
         for(int i=input.length()-2; i>=0; i--) {
-            permute("", input.substring(i));
+//            permute("", input.substring(i));
+            permute(new StringBuffer(input.substring(i)), 0);
             String result = getMin(input, this.permuteInputs);
             this.permuteInputs.clear();
             if(!result.equals("")){
@@ -60,19 +75,21 @@ public class Solution {
         return "no answer";
     }
 
-    public static void main(String[] args){
-        Scanner stdin = new Scanner(System.in);
+    public static void main(String[] args) throws IOException{
+        BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));
         Solution solution = new Solution();
-        solution.test_cases = stdin.nextInt();
+        int n = Integer.parseInt(stdin.readLine());
 
-        solution.inputs = new String[solution.test_cases];
-        for(int i=0; i<solution.test_cases; i++){
-            solution.inputs[i] = stdin.next();
+        solution.inputs = new String[n];
+        for(int i=0; i<n; i++){
+            solution.inputs[i] = stdin.readLine();
             solution.inputs[i] = solution.processString(solution.inputs[i]);
         }
-        for(int i=0; i<solution.test_cases; i++) {
-            System.out.println(solution.inputs[i]);
+        for(int i=0; i<n; i++) {
+            out.write(solution.inputs[i]+"\n");
+//            System.out.println(solution.inputs[i]);
         }
-//        System.out.println(solution.inputs[0]);
+        out.flush();
     }
 }
