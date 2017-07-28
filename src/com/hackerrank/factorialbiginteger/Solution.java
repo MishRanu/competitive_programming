@@ -1,4 +1,4 @@
-package FactorialBigInteger;
+package factorialbiginteger;
 
 import java.math.BigInteger;
 import java.util.Scanner;
