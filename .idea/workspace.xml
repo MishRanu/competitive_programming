@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a09f5c-af09-4be9-98b2-b2025f9c369a" name="Default" comment="" />
+    <list default="true" id="24a09f5c-af09-4be9-98b2-b2025f9c369a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/interviewbit/arrays/minstepsinfinitegrid/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/interviewbit/arrays/spiralordermatrix/Solution.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/absumcproblem/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/absumcproblem/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/absumkproblem/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/absumkproblem/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/algorithmiccrush/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/algorithmiccrush/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/appendanddelete/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/appendanddelete/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/applesandoranges/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/applesandoranges/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arithmeticexpression/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arithmeticexpression/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arraylocalminima/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arraylocalminima/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arraysds/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arraysds/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/biggerisgreater/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/biggerisgreater/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/bigsum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/bigsum/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/binarysearch/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/binarysearch/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/binarysearchtree/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/binarysearchtree/BinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/birthdaycakecandles/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/birthdaycakecandles/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/closestnumbers/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/closestnumbers/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/countingsort1/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/countingsort1/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/countingsort2/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/countingsort2/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/diagnoldifference/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/diagnoldifference/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/doublelinkedlist/DoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/doublelinkedlist/DoublyLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/dynamicarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/dynamicarray/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/encryption/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/encryption/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/factorialbiginteger/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/factorialbiginteger/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/fullcountingsort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/fullcountingsort/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/gradingstudents/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/gradingstudents/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/hackerlandradiotransmitters/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/hackerlandradiotransmitters/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/hourglasssum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/hourglasssum/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/icecreamparlor/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/icecreamparlor/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/insertionsort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/insertionsort/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/insertionsort1/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/insertionsort1/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/leftrotation/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/leftrotation/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/linkedlist/LinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/linkedlistcopy/LinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/linkedlistcopy/LinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarray/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarraydp/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarraydp/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/median/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/median/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimaxsum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimaxsum/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumloss/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumloss/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumlossarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumlossarray/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumlossdp/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumlossdp/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/missingnumbers/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/missingnumbers/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/pairs/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/pairs/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/partition/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/partition/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/permutation/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/permutation/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/permutationstring/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/permutationstring/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/plusminus/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/plusminus/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/quicksort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/quicksort/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/rangeminima/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/rangeminima/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/runningtimequicksort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/runningtimequicksort/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/sherlockandarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/sherlockandarray/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/sparsearrays/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/sparsearrays/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/staircase/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/staircase/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/timeconversion/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/timeconversion/Solution.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,42 +69,7 @@
     <favorites_list name="algorithmworkspace" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/binarysearchtree/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="38" column="28" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/linkedlist/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1932">
-              <caret line="97" column="15" lean-forward="false" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/arithmeticexpression/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +107,12 @@
       <find>insertBefore</find>
       <find>insert</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/interviewbit</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="258" />
     <option name="y" value="120" />
     <option name="width" value="1382" />
@@ -198,15 +223,7 @@
               <item name="algorithmworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="absumcproblem" type="462c0819:PsiDirectoryNode" />
+              <item name="aoalgo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -649,7 +666,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="120" width="1382" height="784" extended-state="1" />
+    <frame x="258" y="120" width="1382" height="784" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -663,6 +680,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27424023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -678,7 +696,6 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3055118" sideWeight="0.44436312" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22204724" sideWeight="0.56661785" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -726,21 +743,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/binarysearch/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/partition/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/partition/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/runningtimequicksort/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/runningtimequicksort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
@@ -758,28 +768,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../servlets/examples/demo/WEB-INF/classes/DemoServ.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/countingsort2/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/countingsort2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/countingsort1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/countingsort1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/fullcountingsort/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/fullcountingsort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/biggerisgreater/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/biggerisgreater/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
           <caret line="78" column="84" lean-forward="false" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
@@ -790,21 +800,21 @@
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/lang/Comparable.java" />
     <entry file="file://D:/Downloads/first/src/Hello.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/javafx-src.zip!/javafx/geometry/Point2D.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/closestnumbers/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/closestnumbers/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/median/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/median/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/icecreamparlor/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/icecreamparlor/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
@@ -812,21 +822,21 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/Comparator.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/missingnumbers/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/missingnumbers/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/permutationstring/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/permutationstring/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/permutation/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/permutation/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -834,91 +844,91 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/pairs/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/pairs/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/hackerlandradiotransmitters/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/hackerlandradiotransmitters/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="99" column="30" lean-forward="false" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/sherlockandarray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/sherlockandarray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/quicksort/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/quicksort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/insertionsort/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/insertionsort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/minimumlossarray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/minimumlossarray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/minimumloss/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/minimumloss/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/minimumlossdp/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/minimumlossdp/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/arraylocalminima/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/arraylocalminima/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/rangeminima/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/rangeminima/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/minimaxsum/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/minimaxsum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarraydp/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarraydp/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -926,14 +936,14 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/lang/Iterable.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/absumkproblem/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/absumkproblem/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/absumcproblem/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/absumcproblem/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
@@ -942,7 +952,7 @@
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/linkedlistcopy/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/linkedlistcopy/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2132">
           <caret line="175" column="14" lean-forward="false" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
@@ -950,7 +960,7 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/Iterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/doublelinkedlist/DoublyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/doublelinkedlist/DoublyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="122" column="31" lean-forward="false" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
@@ -960,9 +970,32 @@
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/stack/Stack.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/Stack.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/arithmeticexpression/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/binarysearchtree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="989">
+          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/arithmeticexpression/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -970,20 +1003,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/linkedlist/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/eightqueens/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="97" column="15" lean-forward="false" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/binarysearchtree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="38" column="28" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
