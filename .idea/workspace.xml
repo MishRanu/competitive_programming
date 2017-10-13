@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a09f5c-af09-4be9-98b2-b2025f9c369a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/interviewbit/arrays/minstepsinfinitegrid/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/interviewbit/arrays/spiralordermatrix/Solution.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/absumcproblem/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/absumcproblem/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/absumkproblem/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/absumkproblem/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/algorithmiccrush/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/algorithmiccrush/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/appendanddelete/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/appendanddelete/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/applesandoranges/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/applesandoranges/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arithmeticexpression/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arithmeticexpression/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arraylocalminima/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arraylocalminima/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/arraysds/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/arraysds/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/biggerisgreater/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/biggerisgreater/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/bigsum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/bigsum/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/binarysearch/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/binarysearch/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/binarysearchtree/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/binarysearchtree/BinarySearchTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/birthdaycakecandles/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/birthdaycakecandles/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/closestnumbers/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/closestnumbers/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/countingsort1/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/countingsort1/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/countingsort2/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/countingsort2/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/diagnoldifference/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/diagnoldifference/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/doublelinkedlist/DoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/doublelinkedlist/DoublyLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/dynamicarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/dynamicarray/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/encryption/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/encryption/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/factorialbiginteger/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/factorialbiginteger/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/fullcountingsort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/fullcountingsort/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/gradingstudents/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/gradingstudents/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/hackerlandradiotransmitters/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/hackerlandradiotransmitters/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/hourglasssum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/hourglasssum/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/icecreamparlor/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/icecreamparlor/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/insertionsort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/insertionsort/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/insertionsort1/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/insertionsort1/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/leftrotation/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/leftrotation/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/linkedlist/LinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/linkedlistcopy/LinkedList.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/linkedlistcopy/LinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarray/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/maximumsumsubarraydp/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/maximumsumsubarraydp/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/median/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/median/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimaxsum/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimaxsum/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumloss/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumloss/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumlossarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumlossarray/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/minimumlossdp/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/minimumlossdp/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/missingnumbers/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/missingnumbers/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/pairs/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/pairs/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/partition/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/partition/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/permutation/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/permutation/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/permutationstring/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/permutationstring/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/plusminus/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/plusminus/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/quicksort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/quicksort/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/rangeminima/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/rangeminima/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/runningtimequicksort/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/runningtimequicksort/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/sherlockandarray/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/sherlockandarray/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/sparsearrays/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/sparsearrays/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/staircase/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/staircase/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/hackerrank/timeconversion/Solution.java" afterPath="$PROJECT_DIR$/src/com/aoalgo/timeconversion/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aoalgo/eightqueensstack/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +18,20 @@
     <favorites_list name="algorithmworkspace" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aoalgo/eightqueensstack/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -173,10 +135,11 @@
         <option value="$PROJECT_DIR$/src/com/hackerrank/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/arithmeticexpression/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/binarysearchtree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/aoalgo/eightqueensstack/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="258" />
     <option name="y" value="120" />
     <option name="width" value="1382" />
@@ -200,6 +163,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,10 +195,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,6 +370,18 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithmworkspace" />
+      <envs />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -539,19 +514,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithmworkspace" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -666,24 +628,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="120" width="1382" height="784" extended-state="0" />
+    <frame x="0" y="0" width="1600" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21997301" sideWeight="0.43338212" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21967769" sideWeight="0.43338212" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27424023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -743,13 +706,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/partition/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aoalgo/runningtimequicksort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -975,10 +931,10 @@
         <state relative-caret-position="989">
           <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#479#480#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+            <element signature="e#552#553#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -988,7 +944,7 @@
         <state relative-caret-position="370">
           <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -997,17 +953,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/eightqueens/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/eightqueens/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aoalgo/eightqueensstack/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="338">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
